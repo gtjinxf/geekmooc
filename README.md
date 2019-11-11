@@ -29,8 +29,8 @@ GTJin长期坚持在微信公众号**极客慕课**上分享原创技术教程�
 ### 我的站点
 
 - 独立站点： http://www.geekmooc.cn
-- GitHub： https://github.com/geekmooc
 - CSDN： https://me.csdn.net/Xfjing
-- 思否： https://segmentfault.com/u/xx
-- 博客园： https://www.cnblogs.com/xx
-- 掘金： https://juejin.im/user/xxx
+- 思否：https://segmentfault.com/u/gtjin
+- 博客园： http://home.cnblogs.com/u/geekmooc/
+- 掘金： https://juejin.im/user/5d8202b6e51d4561fd6cb597
+- GitHub： https://github.com/gtjinxf/geekmooc
